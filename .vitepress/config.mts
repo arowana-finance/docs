@@ -57,7 +57,7 @@ export const SIDEBAR = [
         "link": "/core-service/arowana-finance.html"
       },
       {
-        "text": "Agt Mint Redeem",
+        "text": "AGT Mint Redeem",
         "link": "/core-service/agt-mint-redeem.html"
       }
     ]
@@ -82,7 +82,7 @@ export const SIDEBAR = [
         "link": "/protocol-architecture/fund-layer.html"
       },
       {
-        "text": "Defi Layer",
+        "text": "DeFi Layer",
         "link": "/protocol-architecture/defi-layer.html"
       }
     ]
@@ -119,7 +119,7 @@ export const SIDEBAR = [
         "link": "/governance/governance-incentives.html"
       },
       {
-        "text": "Asset Verification And Audit",
+        "text": "Asset verification and Audit",
         "link": "/governance/asset-verification-and-audit.html"
       }
     ]
