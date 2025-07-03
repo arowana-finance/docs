@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 export const TITLE = 'Arowana Docs';
 export const HOMEPAGE = 'https://arowana.finance';
 export const DOCS_HOMEPAGE = 'https://docs.arowana.finance';
-export const REPO = 'https://github.com/arowana-fiannce';
+export const REPO = 'https://github.com/arowana-finance';
 export const TWITTER = 'https://x.com/Arowana_main';
 export const TG = 'https://t.me/arowanatech';
 export const TOKEN = 'https://arbiscan.io/token/0x747952A59292a9B3862F3C59664B95e8B461eF45';
