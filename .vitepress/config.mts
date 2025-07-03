@@ -22,6 +22,10 @@ export const SIDEBAR = [
         "text": "ARW Token",
         "link": "/tokenomics.html"
       },
+      {
+        "text": "ARW Migration",
+        "link": "/migration.html"
+      },
     ]
   },
   {
