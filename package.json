@@ -1,0 +1,18 @@
+{
+  "name": "arowana-docs",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arowana",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "tsc": "^2.0.4",
+    "typescript": "^5.8.3",
+    "vitepress": "^1.6.3"
+  }
+}
