@@ -145,6 +145,10 @@ export const SIDEBAR = [
     "text": "",
     "items": [
       {
+        "text": "Links",
+        "link": "/links.html"
+      },
+      {
         "text": "Team",
         "link": "/team.html"
       },
