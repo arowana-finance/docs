@@ -26,7 +26,8 @@ export const SIDEBAR = [
         "text": "ARW Migration",
         "link": "/migration.html"
       },
-    ]
+    ],
+    collapsed: false,
   },
   {
     "text": "Arowana Protocol",
@@ -39,7 +40,8 @@ export const SIDEBAR = [
         "text": "Features of the Protocol",
         "link": "/arowana-protocol-overview/features-of-the-protocol.html"
       }
-    ]
+    ],
+    collapsed: false,
   },
   {
     "text": "Core Service",
@@ -64,7 +66,8 @@ export const SIDEBAR = [
         "text": "AGT Mint Redeem",
         "link": "/core-service/agt-mint-redeem.html"
       }
-    ]
+    ],
+    collapsed: false,
   },
   {
     "text": "Protocol Architecture",
@@ -89,7 +92,8 @@ export const SIDEBAR = [
         "text": "DeFi Layer",
         "link": "/protocol-architecture/defi-layer.html"
       }
-    ]
+    ],
+    collapsed: false,
   },
   {
     "text": "Governance",
@@ -126,7 +130,8 @@ export const SIDEBAR = [
         "text": "Asset verification and Audit",
         "link": "/governance/asset-verification-and-audit.html"
       }
-    ]
+    ],
+    collapsed: false,
   },
   {
     "text": "Roadmap",
@@ -139,7 +144,8 @@ export const SIDEBAR = [
         "text": "Vision",
         "link": "/roadmap/vision.html"
       },
-    ]
+    ],
+    collapsed: false,
   },
   {
     "text": "",
