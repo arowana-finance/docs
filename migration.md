@@ -13,6 +13,8 @@ This migration was essential in order to remove the mint function and ensure gre
 ### Key details
 
 • New CA: [0x747952A59292a9B3862F3C59664B95e8B461eF45](https://arbiscan.io/token/0x747952A59292a9B3862F3C59664B95e8B461eF45)\
+• Migrator (ETH): [0xAa25336bAc8C081B05da7DDf2558D75F750Ffc3A](https://etherscan.io/address/0xaa25336bac8c081b05da7ddf2558d75f750ffc3a)\
+• Migrator (ARB): [0x357e3b7C22A98943f07c2e2fcf40B767d9243522](https://arbiscan.io/address/0x357e3b7c22a98943f07c2e2fcf40b767d9243522)\
 • Initial TGE Supply: 25M $ARW\
 • Swap Ratio: 1:1 \
 • Chain: ARB
