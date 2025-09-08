@@ -16,15 +16,20 @@ ARW is the governance token that maintains the asset base of the Arowana platfor
 
 ### 2. ARW Allocation
 
-| Category             | Ratio | Quantity (ARW)  |
-| -------------------- | ----- | --------------- |
-| Ecosystem Reserve    | 50%   | 250,000,000 ARW |
-| Liquidity Mining     | 15%   | 75,000,000 ARW  |
-| Partners & Ecosystem | 15%   | 75,000,000 ARW  |
-| Team & Advisors      | 10%   | 50,000,000 ARW  |
-| R\&D & Operations    | 5%    | 25,000,000 ARW  |
-| Marketing & Growth   | 5%    | 25,000,000 ARW  |
-| Total                | 100%  | 500,000,000 ARW |
+| Category                    | Ratio | Quantity (ARW)  |
+| --------------------------- | ----- | --------------- |
+| Initial liquidity provision | 20%   | 100,000,000 ARW |
+| Marketing                   | 15%   | 75,000,000 ARW  |
+| Development                 | 10%   | 50,000,000 ARW  |
+| Ecosystem                   | 15%   | 75,000,000 ARW  |
+| Partners                    | 5%    | 25,000,000 ARW  |
+| Advisors                    | 5%    | 25,000,000 ARW  |
+| Team                        | 5%    | 25,000,000 ARW  |
+| Foundation                  | 10%   | 50,000,000 ARW  |
+| Events & Airdrops           | 5%    | 25,000,000 ARW  |
+| Community                   | 5%    | 25,000,000 ARW  |
+| Rewards                     | 5%    | 25,000,000 ARW  |
+| Total                       | 100%  | 500,000,000 ARW |
 
 ARW will be distributed in stages for each purpose and used strategically as the ecosystem expands and the platform grows.
 
@@ -48,15 +53,20 @@ ARW is designed to be the center of an economic circulation structure, not just 
 
 ### 4. ARW Vesting Plan
 
-<figure><img src="/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/arw-vesting.jpg" alt=""><figcaption></figcaption></figure>
 
-| Category             | Cliff     | Vesting   |
-| -------------------- | --------- | --------- |
-| Ecosystem Reserve    | -         | 60 months |
-| Liquidity Mining     | -         | 6 months  |
-| Partners & Ecosystem | 6 months  | 18 months |
-| Team & Advisors      | 24 months | 24 months |
-| R\&D & Operations    | 3 months  | 12 months |
-| Marketing            | 3 months  | 12 months |
+| Category                    | TGE   | Cliff     | Vesting   |
+| --------------------------- | ----- | --------- | --------- |
+| Initial liquidity provision | 100%  | -         | -         |
+| Marketing                   | 60%   | -         | 12 months |
+| Development                 | 0%    | 6 months  | 18 months |
+| Ecosystem                   | 0%    | 6 months  | 18 months |
+| Partners                    | 0%    | 24 months | 36 months |
+| Advisors                    | 0%    | 24 months | 36 months |
+| Team                        | 0%    | 24 months | 36 months |
+| Foundation                  | 45%   | -         | 60 months |
+| Events & Airdrops           | 20%   | -         | 60 months |
+| Community                   | 20%   | -         | 60 months |
+| Rewards                     | 20%   | -         | 60 months |
 
 Ecosystem and Liquidity Mining fluctuate based on market demand.
