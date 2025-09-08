@@ -55,18 +55,19 @@ ARW is designed to be the center of an economic circulation structure, not just 
 
 <figure><img src="/arw-vesting.jpg" alt=""><figcaption></figcaption></figure>
 
-| Category                    | TGE   | Cliff     | Vesting   |
-| --------------------------- | ----- | --------- | --------- |
-| Initial liquidity provision | 100%  | -         | -         |
-| Marketing                   | 60%   | -         | 12 months |
-| Development                 | 0%    | 6 months  | 18 months |
-| Ecosystem                   | 0%    | 6 months  | 18 months |
-| Partners                    | 0%    | 24 months | 36 months |
-| Advisors                    | 0%    | 24 months | 36 months |
-| Team                        | 0%    | 24 months | 36 months |
-| Foundation                  | 45%   | -         | 60 months |
-| Events & Airdrops           | 20%   | -         | 60 months |
-| Community                   | 20%   | -         | 60 months |
-| Rewards                     | 20%   | -         | 60 months |
+| Category                    | TGE              | Cliff     | Vesting          |
+| --------------------------- | ---------------- | --------- | ---------------- |
+| Initial liquidity provision | 100% ( 100M )    | -         | -                |
+| Marketing                   | 60%  ( 45M )     | -         | 12 months        |
+| Development                 | 0%               | 6 months  | 18 months        |
+| Ecosystem                   | 0%               | 6 months  | 18 months        |
+| Partners                    | 0%               | 24 months | 36 months        |
+| Advisors                    | 0%               | 24 months | 36 months        |
+| Team                        | 0%               | 24 months | 36 months        |
+| Foundation                  | 45% ( 22.5M )    | -         | 60 months        |
+| Events & Airdrops           | 20%  ( 0.5M )    | -         | 60 months        |
+| Community                   | 20%  ( 0.5M )    | -         | 60 months        |
+| Rewards                     | 20%  ( 0.5M )    | -         | 60 months        |
+| Total                       | 36.5% ( 182.5M ) | -         | 63.5% ( 317.5M ) |
 
 Ecosystem and Liquidity Mining fluctuate based on market demand.
