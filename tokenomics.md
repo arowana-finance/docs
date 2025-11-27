@@ -18,17 +18,11 @@ ARW is the governance token that maintains the asset base of the Arowana platfor
 
 | Category                    | Ratio | Quantity (ARW)  |
 | --------------------------- | ----- | --------------- |
-| Initial liquidity provision | 20%   | 100,000,000 ARW |
-| Marketing                   | 15%   | 75,000,000 ARW  |
-| Development                 | 10%   | 50,000,000 ARW  |
-| Ecosystem                   | 15%   | 75,000,000 ARW  |
-| Partners                    | 5%    | 25,000,000 ARW  |
-| Advisors                    | 5%    | 25,000,000 ARW  |
-| Team                        | 5%    | 25,000,000 ARW  |
-| Foundation                  | 10%   | 50,000,000 ARW  |
-| Events & Airdrops           | 5%    | 25,000,000 ARW  |
+| Ecosystem                   | 55%   | 275,000,000 ARW |
+| DAO Treasury                | 20%   | 100,000,000 ARW |
+| Marketing                   | 10%   | 50,000,000 ARW  |
+| Team & Advisor              | 10%   | 50,000,000 ARW  |
 | Community                   | 5%    | 25,000,000 ARW  |
-| Rewards                     | 5%    | 25,000,000 ARW  |
 | Total                       | 100%  | 500,000,000 ARW |
 
 ARW will be distributed in stages for each purpose and used strategically as the ecosystem expands and the platform grows.
@@ -53,21 +47,15 @@ ARW is designed to be the center of an economic circulation structure, not just 
 
 ### 4. ARW Vesting Plan
 
-<figure><img src="/arw-vesting.jpg" alt=""><figcaption></figcaption></figure>
+<!-- figure><img src="/arw-vesting.jpg" alt=""><figcaption></figcaption></figure -->
 
 | Category                    | TGE              | Cliff     | Vesting          |
 | --------------------------- | ---------------- | --------- | ---------------- |
-| Initial liquidity provision | 100% ( 100M )    | -         | -                |
-| Marketing                   | 60%  ( 45M )     | -         | 12 months        |
-| Development                 | 0%               | 6 months  | 18 months        |
-| Ecosystem                   | 0%               | 6 months  | 18 months        |
-| Partners                    | 0%               | 24 months | 36 months        |
-| Advisors                    | 0%               | 24 months | 36 months        |
-| Team                        | 0%               | 24 months | 36 months        |
-| Foundation                  | 45% ( 22.5M )    | -         | 60 months        |
-| Events & Airdrops           | 20%  ( 0.5M )    | -         | 60 months        |
-| Community                   | 20%  ( 0.5M )    | -         | 60 months        |
-| Rewards                     | 20%  ( 0.5M )    | -         | 60 months        |
-| Total                       | 36.5% ( 182.5M ) | -         | 63.5% ( 317.5M ) |
+| Ecosystem                   | 27.5% ( 137.5M ) | -         | 48 months        |
+| DAO Treasury                | 0%               | -         | 48 months        |
+| Marketing                   | 2% ( 10M )       | -         | 36 months        |
+| Team & Advisor              | 0%               | 12 months | 36 months        |
+| Community                   | 5% ( 25M )       | -         | -                |
+| Total                       | 34.5% ( 172.5M ) | -         | 65.5% ( 327.5M ) |
 
 Ecosystem and Liquidity Mining fluctuate based on market demand.

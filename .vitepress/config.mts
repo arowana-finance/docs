@@ -155,10 +155,6 @@ export const SIDEBAR = [
         "link": "/links.html"
       },
       {
-        "text": "Team",
-        "link": "/team.html"
-      },
-      {
         "text": "Disclaimer",
         "link": "/disclaimer.html"
       }
